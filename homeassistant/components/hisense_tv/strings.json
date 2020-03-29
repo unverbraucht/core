@@ -1,0 +1,26 @@
+{
+  "config": {
+    "title": "HiSense TV",
+    "flow_title": "HiSense TV: {name}",
+    "step": {
+      "ssdp_confirm": {
+        "data": {},
+        "description": "Do you want to set up {name}?",
+        "title": "Connect to the HiSense TV"
+      },
+      "user": {
+        "title": "Connect to the HiSense TV",
+        "data": {
+          "host": "Host or IP address"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Failed to connect, please try again"
+    },
+    "abort": {
+      "already_configured": "HiSense TV is already configured",
+      "unknown": "Unexpected error"
+    }
+  }
+}

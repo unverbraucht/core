@@ -28,6 +28,11 @@ SSDP = {
             "st": "urn:schemas-denon-com:device:ACT-Denon:1"
         }
     ],
+    "hisense_tv": [
+        {
+            "st": "urn:schemas-upnp-org:service:HisenseLanControl:1"
+        }
+    ],
     "huawei_lte": [
         {
             "deviceType": "urn:schemas-upnp-org:device:InternetGatewayDevice:1",

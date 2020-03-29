@@ -1,0 +1,15 @@
+{
+    "config": {
+        "abort": {
+            "no_devices_found": "No HiSense TV Control devices found on the network.",
+            "single_instance_allowed": "Only a single configuration of HiSense TV Control is possible."
+        },
+        "step": {
+            "confirm": {
+                "description": "Do you want to set up HiSense TV Control?",
+                "title": "HiSense TV Control"
+            }
+        },
+        "title": "HiSense TV Control"
+    }
+}

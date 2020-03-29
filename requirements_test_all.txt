@@ -371,6 +371,7 @@ numpy==1.18.1
 # homeassistant.components.google
 oauth2client==4.0.0
 
+# homeassistant.components.hisense_tv
 # homeassistant.components.mqtt
 # homeassistant.components.shiftr
 paho-mqtt==1.5.0
@@ -755,6 +756,7 @@ vsure==1.5.4
 # homeassistant.components.vultr
 vultr==0.1.2
 
+# homeassistant.components.hisense_tv
 # homeassistant.components.panasonic_viera
 # homeassistant.components.wake_on_lan
 wakeonlan==1.1.6

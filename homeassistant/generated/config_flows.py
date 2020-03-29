@@ -44,6 +44,7 @@ FLOWS = [
     "harmony",
     "heos",
     "hisense_aehw4a1",
+    "hisense_tv",
     "homekit_controller",
     "homematicip_cloud",
     "huawei_lte",

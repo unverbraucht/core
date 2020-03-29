@@ -1,0 +1,21 @@
+{
+  "domain": "hisense_tv",
+  "name": "HiSense TV Control",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/hisense_tv",
+  "requirements": [
+    "wakeonlan==1.1.6",
+    "paho-mqtt==1.5.0"
+  ],
+  "ssdp": [
+    {
+      "st": "urn:schemas-upnp-org:service:HisenseLanControl:1"
+    }
+  ],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@unverbraucht"
+  ]
+}

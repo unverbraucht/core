@@ -1,0 +1,12 @@
+{
+  "domain": "hisense_tv",
+  "name": "HiSense TV",
+  "documentation": "https://www.home-assistant.io/components/hisense",
+  "codeowners": ["@unverbraucht"],
+  "config_flow": true,
+  "ssdp": [
+    {
+      "deviceType": "urn:schemas-upnp-org:service:HisenseLanControl:1"
+    }
+  ]
+}
